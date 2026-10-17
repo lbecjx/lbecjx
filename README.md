@@ -6,7 +6,7 @@ I'm the human in the loop — the last line of defense between the machines and 
 
 ### What I'm building
 
-- [workflow-x](https://github.com/lbecjx/workflow-x) — a Claude Code agent that takes your story end to end, from the ticket to a PR ready for review, with every change through a rigorous quality gate. The pro edition: its repo is a showcase, and the source is private.
+- [workflow-x](https://github.com/lbecjx/workflow-x-site) — a Claude Code agent that takes your story end to end, from the ticket to a PR ready for review, with every change through a rigorous quality gate. The pro edition: its repo is a showcase, and the source is private.
 - [workflow-dev](https://github.com/lbecjx/workflow-dev) — the free, open-source edition of workflow-x. 107 merged pull requests, 38 test suites and 26 behavior evals: read the code.
 - [local-backlog](https://github.com/lbecjx/local-backlog) — Claude Code skills for local issue tracking, no cloud tracker needed
 - [backlog-viewer](https://github.com/lbecjx/backlog-viewer) — the React app behind the local-backlog viewer
